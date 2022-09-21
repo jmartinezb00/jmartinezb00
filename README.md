@@ -5,7 +5,7 @@ This is a program developed in Unity, with the aim of helping to improve the dai
 
 https://www.youtube.com/watch?v=T1n6KyndzvU
 
-# Communicator based on Hand Tracking (Machine Learnign)
+# Communicator based on Hand Tracking (Machine Learning)
  
 In this case, it is a communicator that uses a tts algorithm for people with speech difficulties. The operation of this is very simple, we will use a program based on a carousel of pictographs that are illuminated every x seconds. When the user decides which pictograph he wants the program to say, he only has to show his hand to the camera. The program has a Machine Learning algorithm that when detecting the hand, generates a trigger and says the phrase we want.
 
